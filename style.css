@@ -6,6 +6,11 @@ body{
     background: black;
     color: azure;
 }
+h1{
+    font: optional;
+    color: blue;
+    width: 700;
+}
 *{
     margin: auto;
     padding: auto;
