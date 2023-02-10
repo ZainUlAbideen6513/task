@@ -6,7 +6,7 @@ body{
     background: black;
     color: azure;
 }
-p{
+*{
     margin: auto;
     padding: auto;
     text-align: center;
