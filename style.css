@@ -3,8 +3,13 @@
     padding: 0;
 }
 body{
-    background: black;
-    color: azure;
+    background-color:gray;
+    color: aliceblue;
+}
+h2{
+    font-weight: 500;
+    background-color: aqua;
+    margin-top: 30px;
 }
 h1{
     font: optional;
