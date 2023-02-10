@@ -1,4 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
-    background-color:gray;
-    color: aliceblue;
+    background: black;
+    color: azure;
+}
+p{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    margin-top: 2%;
 }
