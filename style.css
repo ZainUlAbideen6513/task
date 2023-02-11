@@ -3,8 +3,9 @@
     padding: 0;
 }
 body{
-    background-color:gray;
-    color: aliceblue;
+    /* background-color:gray; */
+    background-color: aquamarine;
+    /* color: aliceblue; */
 }
 h2{
     font-weight: 500;
@@ -19,6 +20,20 @@ h1{
 *{
     margin: auto;
     padding: auto;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 2%;
 }
+
+.header{
+   display: flex;
+   background-color: aliceblue;
+   justify-content: center;
+   align-items: center;
+
+}
+.header li{
+     color: firebrick;
+     list-style: none;
+     font-size: large;
+     font-weight: 700;
+  }
