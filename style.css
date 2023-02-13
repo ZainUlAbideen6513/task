@@ -32,8 +32,9 @@ h1{
 
 }
 .header li{
-     color: firebrick;
+     color: orange;
      list-style: none;
      font-size: large;
      font-weight: 700;
+
   }
